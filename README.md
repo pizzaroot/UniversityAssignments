@@ -1,2 +1,1 @@
-# UniversityAssignments
-과제 아카이브
+# 세종대학교 과제 아카이브
