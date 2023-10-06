@@ -97,6 +97,7 @@ public:
 	void division(int _div) {
 		if (_div < 2) return;
 		if (_div > MAX_DIV) return;
+		if (_div == div) return;
 
 		__set_div(_div);
 		__init();
